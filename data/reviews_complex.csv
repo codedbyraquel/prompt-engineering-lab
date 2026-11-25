@@ -1,0 +1,21 @@
+id,review,expected_sentiment,challenge
+11,"Parabéns pela entrega! Só demorou duas horas.",negativo,sarcasmo
+12,"Mto bommm, chegou rapidin e quentinho.",positivo,linguagem_informal
+13,"O pedido foi entregue às 19h30.",neutro,factual
+14,"A pizza estava perfeita, pena que veio faltando a bebida.",misto,contradicao
+15,"Nossa, adorei pagar caro pra receber comida fria.",negativo,ironia
+16,"Não tenho nenhuma reclamação, pediria novamente.",positivo,negacao
+17,"Recebi o pedido. Ainda não experimentei.",neutro,contexto_limitado
+18,"O lanche tava top, mas o entregador foi super grosso.",misto,linguagem_informal
+19,"Nunca mais peço nesse lugar. Tudo errado.",negativo,enfase
+20,"Achei que seria ruim, mas me surpreendeu positivamente.",positivo,contraste_temporal
+21,"O pedido continha arroz, feijão e frango.",neutro,factual
+22,"Demorou bastante, porém a comida compensou a espera.",misto,contradicao
+23,"Que maravilha, esqueceram meu pedido de novo.",negativo,sarcasmo
+24,"Não estava nada ruim. Gostei bastante.",positivo,negacao
+25,"O aplicativo informou que o pedido foi entregue.",neutro,contexto_limitado
+26,"A apresentação estava impecável, mas o sabor deixou a desejar.",misto,contradicao
+27,"Pessimo atendimento, n recomendo pra ngm.",negativo,erros_ortograficos
+28,"Melhor pedido que fiz esse mês!",positivo,enfase
+29,"Solicitei uma porção de batatas sem sal.",neutro,factual
+30,"A entrega foi rápida, mas a embalagem chegou danificada.",misto,contradicao
