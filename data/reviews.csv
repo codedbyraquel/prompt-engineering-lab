@@ -1,0 +1,12 @@
+
+id,review,expected_sentiment
+1,"A comida estava maravilhosa e chegou rapidamente.",positivo
+2,"Meu pedido chegou frio e atrasado.",negativo
+3,"A comida estava boa, mas a entrega demorou.",misto
+4,"O pedido chegou conforme o esperado.",neutro
+5,"Excelente atendimento e ótima qualidade.",positivo
+6,"Recebi um pedido completamente diferente.",negativo
+7,"A embalagem era bonita, mas a comida estava fria.",misto
+8,"O restaurante entregou o prato solicitado.",neutro
+9,"Com certeza pedirei novamente!",positivo
+10,"Experiência péssima, não recomendo.",negativo
